@@ -6,4 +6,4 @@ The simulation of free-lectron lasers (FELs) requires complex programs and quali
 
 Cite the code: [![DOI](https://zenodo.org/badge/605536962.svg)](https://zenodo.org/badge/latestdoi/605536962)
 
-Article information: https://iopscience.iop.org/article/10.1088/1402-4896/acf814
+Article: https://iopscience.iop.org/article/10.1088/1402-4896/acf814
